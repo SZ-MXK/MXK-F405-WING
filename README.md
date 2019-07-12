@@ -32,11 +32,13 @@ Camera, Buzzer, 2812 LED_Strip, GPS module, AirSpeed etc) <br>
 5V Default, 6V or 7.2V via jumper <br>
 
 FC Firmware <br>
+- - - 
 INAV-Radar <br>
 INAV <br>
 ArduPilot <br>
 
 Physical <br>
+- - - 
 Mounting: 30.5 x 30.5mm <br>
 Dimensions: 54 x 36 x 13 mm <br>
 Weight: 28g <br>
