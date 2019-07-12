@@ -1,5 +1,6 @@
 
 FC Specifications
+=====
 
 MCU: 168MHz STM32F405 <br>
 IMU: MPU6000 accelerometer/gyro <br>
@@ -21,7 +22,7 @@ Current Senor: 104A,  3.3V ADC,  Scale 317 <br>
 Beeper : Yes <br>
 RSSI: Yes <br>
 2x ESC power pads <br>
-Input voltage range: 9~30V (3~6S LiPo) w/TVS protection <br>
+Input voltage range: 9-30V (3-6S LiPo) w/TVS protection <br>
 3.3V（3V3） 0.3A BEC(Designed for Spektrum RX) <br>
 5V（5V） 2A BEC(Designed for Flight controller, Receiver, OSD, <br>
 Camera, Buzzer, 2812 LED_Strip, GPS module, AirSpeed etc) <br>
