@@ -4,7 +4,7 @@ FC Specifications
 
 MCU: 168MHz STM32F405 <br>
 IMU: MPU6000 accelerometer/gyro <br>
-Tab Baro: BMP280 <br>
+Baro: BMP280 <br>
 OSD:  AT7456E <br>
 Blackbox: MicroSD card slot (SD/SDHC) <br>
 BLE Module: Inner connect to UART5（MSP & Baud 9600）<br>
