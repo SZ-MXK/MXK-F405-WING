@@ -12,7 +12,7 @@ IMU: MPU6000 accelerometer/gyro <br>
 Baro: BMP280 <br>
 OSD:  AT7456E <br>
 Blackbox: MicroSD card slot (SD/SDHC) <br>
-BLE Module: Inner connect to UART5（MSP & Baud 9600）<br>
+BLE Module: Inner connect to UART1（MSP & Baud 9600）<br>
 for remote setting with SpeedyBee App or other similar apps <br>
 6x Uarts (1,2,3,4,5,6) <br>
 1x Softserial-Tx(SoftSerial on TX2 pad) <br>
